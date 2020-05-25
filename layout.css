@@ -6,6 +6,8 @@ body {
     min-width: 660px;
     max-width: 960px;
     font-family: 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header {
